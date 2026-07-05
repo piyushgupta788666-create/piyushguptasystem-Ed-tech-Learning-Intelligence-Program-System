@@ -19,11 +19,11 @@ Course Catalog
 ![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133205.png)
 
 
-AI Advisor
+Analytics
 ![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133218.png)
 
 
-Assessments
+Achievement
 ![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133237.png)
 
 
