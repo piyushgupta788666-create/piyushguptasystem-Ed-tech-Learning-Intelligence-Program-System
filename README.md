@@ -12,19 +12,19 @@ EdTech Learning Intelligence Platform is a UI/UX design project created in Figma
 ## Preview
 
 Dashboard 
-![image alt](
+![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133127.png)
 
 
 Course Catalog
-![image alt](
+![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133205.png)
 
 
 AI Advisor
-![image alt](
+![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133218.png)
 
 
 Assessments
-![image alt](
+![image alt](https://github.com/piyushgupta788666-create/piyushguptasystem-Ed-tech-Learning-Intelligence-Program-System/blob/0e8505765850ef6a75050f119c494220621db6d5/Screenshot%202026-07-05%20133237.png)
 
 
 
